@@ -1,6 +1,6 @@
 # TRICKY WAITLIST
 
-**Live URL:**  
+**Live URL:**  https://tricky-waitlist.vercel.app/
 **Assignment:** Zero to Waitlist
 
 ---
